@@ -54,7 +54,7 @@ npm init -y
     - `npm update [paquete] --depth 2` actualizar paquetes con vulnerabilidades
     - `npm audit fix` solucionar vulnerabilidades
     - snyk.io es una herramienta que busca vulnerabilidades
-
+- `npm list --all` listar todos los paquetes instalados
 - `npm link` se instala (referencia) nuestro paquete a nivel global como si lo hicieramos desde npm
 - `npm install -g [path]` Otra vía para instalar nuestro paquete en local 
 - `npm adduser` registrar en npm vía cmd

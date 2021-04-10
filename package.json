@@ -10,7 +10,8 @@
   "author": "Hector Moreira <hector.moreirac@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "random-msg-hm": "^1.0.5"
   },
   "devDependencies": {
     "date-fns": "^2.19.0",
