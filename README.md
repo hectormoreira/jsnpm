@@ -1,6 +1,6 @@
 # Curso de Gestión de Dependencias y Paquetes con NPM
 
-Notas del curso [Curso de Gestión de Dependencias y Paquetes con NPM](https://platzi.com/clases/npm/)
+Notas del [Curso de Gestión de Dependencias y Paquetes con NPM](https://platzi.com/clases/npm/)
 
 ## Iniciar proyecto
 ```sh
@@ -53,10 +53,7 @@ npm init -y
     - `npm audit --json` información detallada del audit en json
     - `npm update [paquete] --depth 2` actualizar paquetes con vulnerabilidades
     - `npm audit fix` solucionar vulnerabilidades
-    - snyk.io es una herramienta
-
-    
-`
+    - snyk.io es una herramienta que busca vulnerabilidades
 
 
 ### Dependencias
