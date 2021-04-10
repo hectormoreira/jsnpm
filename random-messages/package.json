@@ -1,6 +1,6 @@
 {
-  "name": "randon-messages",
-  "version": "1.0.0",
+  "name": "random-msg-hm",
+  "version": "1.0.5",
   "description": "Random de mensajes",
   "main": "src/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "Hector Moreira <hector.moreirac@gmail.com>",
   "license": "MIT",
   "bin": {
-    "randon-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true
 }

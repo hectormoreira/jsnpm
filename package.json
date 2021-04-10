@@ -1,7 +1,7 @@
 {
   "name": "jsnpm",
   "version": "1.0.0",
-  "description": "",
+  "description": "Notas del [Curso de Gestión de Dependencias y Paquetes con NPM](https://platzi.com/clases/npm/)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,13 @@
   },
   "optionalDependencies": {
     "eslint": "^7.23.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectormoreira/jsnpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hectormoreira/jsnpm/issues"
+  },
+  "homepage": "https://github.com/hectormoreira/jsnpm#readme"
 }

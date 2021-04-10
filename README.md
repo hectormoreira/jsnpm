@@ -55,6 +55,16 @@ npm init -y
     - `npm audit fix` solucionar vulnerabilidades
     - snyk.io es una herramienta que busca vulnerabilidades
 
+- `npm link` se instala (referencia) nuestro paquete a nivel global como si lo hicieramos desde npm
+- `npm install -g [path]` Otra vía para instalar nuestro paquete en local 
+- `npm adduser` registrar en npm vía cmd
+- `npm publish` publicar en npm
+- `npm version patch` solo parches
+- `npm version minor` cambios menores
+- `npm version major` cambios mayores
+- `npm install -g npm` actualizar npm
+
+
 
 ### Dependencias
 ```sh
@@ -63,4 +73,12 @@ npm i date-fns -D
 npm i -g nodemon
 npm install eslint -O
 npm install webpack -f
+```
+
+## Proyecto del curso
+```sh
+pwd
+mkdir random-messages
+cd random-messages
+npm init
 ```
